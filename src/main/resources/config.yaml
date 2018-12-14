@@ -1,0 +1,23 @@
+version: 0.1.0
+appList: [
+  neteaseMusic: {
+    name: 网易云音乐,
+    path: "C/abc.exe",
+    delay: 0
+  },
+  idea: {
+    name: Idea IDE,
+    path: "C/abc.exe",
+    delay: 0
+  },
+  chrome: {
+    name: Chrome,
+    path: "C/abc.exe",
+    delay: 0
+  },
+  zeal: {
+    name: "Zeal Doc",
+    path: "C/abc.exe",
+    delay: 0
+  }
+]
